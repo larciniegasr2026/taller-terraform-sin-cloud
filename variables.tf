@@ -1,5 +1,5 @@
 variable "participante" {
-  description = "Escribe aquí tu nombre para personalizar el ejercicio"
+  description = "Lida"
   type        = string
   default     = "Participante DIAN"
 }
